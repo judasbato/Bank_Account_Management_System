@@ -1,0 +1,3 @@
+/Users/battalaliagbulut/CLionProjects/Inheritance_Exercise/cmake-build-debug/CMakeFiles/Inheritance_Exercise.dir
+/Users/battalaliagbulut/CLionProjects/Inheritance_Exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/battalaliagbulut/CLionProjects/Inheritance_Exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
