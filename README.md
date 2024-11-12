@@ -1,5 +1,15 @@
 # Bank Account Management System
 
+## Table of Contents
+1. [Description](#description)
+2. [Features](#features)
+3. [Files](#files)
+4. [Getting Started](#getting-started)
+5. [Usage](#usage)
+6. [Code Highlights](#code-highlights)
+7. [Example Output](#example-output)
+8. [Acknowledgements](#acknowledgements)
+
 ## Description
 This project is a simple C++ implementation of a bank account management system. The program includes several types of accounts, each with specific deposit and withdrawal rules. It demonstrates object-oriented programming concepts such as inheritance, polymorphism, and operator overloading.
 
